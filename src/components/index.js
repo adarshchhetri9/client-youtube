@@ -5,8 +5,10 @@ import VideoDetails from "./VideoDetails";
 import Feed from "./Feed";
 import SearchBar from "./SearchBar";
 import SideBar from "./SideBar";
+import Videos from "./Videos";
 
 export {
+  Videos,
   SideBar,
   SearchBar,
   Feed,
